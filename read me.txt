@@ -1,0 +1,18 @@
+AIM:
+Data Analysis Case Study-
+
+Edison Utilities PLC failed job reports for exploration and deriving the reason for more failures.
+
+
+Steps to Replicate the solution:
+
+1. Use PowerBI desktop app in Windows laptop 
+2. Import the Power BI file from the dashboard folder
+3. Access the data from the data folder
+4. explore around the buttons,columns and points on line.
+5. The report could be seen for detailed analysis.
+
+System information:
+Developer: Windows 11 64 bit, Ryzen 9, rtx3080, 16 gb ram, 8gb ram(graphics card).
+Compatible devices: Windows 8-11, 64 bit, intel i3-i9, ram 4-16 gb, hard disk/ssd.
+
